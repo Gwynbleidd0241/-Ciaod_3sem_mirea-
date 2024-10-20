@@ -1,0 +1,100 @@
+33806,Ivan Ivanov,Moscow, Lenin St.
+93715,Petr Petrov,Saint Petersburg, Nevskiy Ave.
+16406,Sergey Sidorov,Kazan, Tverskaya St.
+52258,Anna Smirnova,Novosibirsk, Karl Marx St.
+52779,Olga Pavlova,Yekaterinburg, Gagarina Ave.
+17457,Dmitry Karpov,Samara, Kuybyshev St.
+45106,Elena Vasilyeva,Rostov, Donetskaya St.
+31283,Nikolay Frolov,Krasnodar, Krasnaya St.
+59957,Irina Melnik,Vladivostok, Admiral Ave.
+59961,Vladimir Kiselev,Nizhny Novgorod, Minina St.
+24131,Ivan Ivanov,Moscow, Lenin St.
+51782,Petr Petrov,Saint Petersburg, Nevskiy Ave.
+66630,Sergey Sidorov,Kazan, Tverskaya St.
+93767,Anna Smirnova,Novosibirsk, Karl Marx St.
+54347,Olga Pavlova,Yekaterinburg, Gagarina Ave.
+57430,Dmitry Karpov,Samara, Kuybyshev St.
+23638,Elena Vasilyeva,Rostov, Donetskaya St.
+69220,Nikolay Frolov,Krasnodar, Krasnaya St.
+80488,Irina Melnik,Vladivostok, Admiral Ave.
+26219,Vladimir Kiselev,Nizhny Novgorod, Minina St.
+40567,Ivan Ivanov,Moscow, Lenin St.
+30335,Petr Petrov,Saint Petersburg, Nevskiy Ave.
+81026,Sergey Sidorov,Kazan, Tverskaya St.
+51332,Anna Smirnova,Novosibirsk, Karl Marx St.
+68742,Olga Pavlova,Yekaterinburg, Gagarina Ave.
+26250,Dmitry Karpov,Samara, Kuybyshev St.
+15514,Elena Vasilyeva,Rostov, Donetskaya St.
+29850,Nikolay Frolov,Krasnodar, Krasnaya St.
+15517,Irina Melnik,Vladivostok, Admiral Ave.
+16551,Vladimir Kiselev,Nizhny Novgorod, Minina St.
+49324,Ivan Ivanov,Moscow, Lenin St.
+97453,Petr Petrov,Saint Petersburg, Nevskiy Ave.
+43184,Sergey Sidorov,Kazan, Tverskaya St.
+46258,Anna Smirnova,Novosibirsk, Karl Marx St.
+26294,Olga Pavlova,Yekaterinburg, Gagarina Ave.
+89796,Dmitry Karpov,Samara, Kuybyshev St.
+80583,Elena Vasilyeva,Rostov, Donetskaya St.
+91862,Nikolay Frolov,Krasnodar, Krasnaya St.
+51419,Irina Melnik,Vladivostok, Admiral Ave.
+61155,Vladimir Kiselev,Nizhny Novgorod, Minina St.
+84707,Ivan Ivanov,Moscow, Lenin St.
+50404,Petr Petrov,Saint Petersburg, Nevskiy Ave.
+42736,Sergey Sidorov,Kazan, Tverskaya St.
+85746,Anna Smirnova,Novosibirsk, Karl Marx St.
+63219,Olga Pavlova,Yekaterinburg, Gagarina Ave.
+95483,Dmitry Karpov,Samara, Kuybyshev St.
+68860,Elena Vasilyeva,Rostov, Donetskaya St.
+82175,Nikolay Frolov,Krasnodar, Krasnaya St.
+14081,Irina Melnik,Vladivostok, Admiral Ave.
+71428,Vladimir Kiselev,Nizhny Novgorod, Minina St.
+13062,Ivan Ivanov,Moscow, Lenin St.
+29959,Petr Petrov,Saint Petersburg, Nevskiy Ave.
+69903,Sergey Sidorov,Kazan, Tverskaya St.
+78614,Anna Smirnova,Novosibirsk, Karl Marx St.
+35610,Olga Pavlova,Yekaterinburg, Gagarina Ave.
+18203,Dmitry Karpov,Samara, Kuybyshev St.
+54557,Elena Vasilyeva,Rostov, Donetskaya St.
+40734,Nikolay Frolov,Krasnodar, Krasnaya St.
+20254,Irina Melnik,Vladivostok, Admiral Ave.
+84777,Vladimir Kiselev,Nizhny Novgorod, Minina St.
+56120,Ivan Ivanov,Moscow, Lenin St.
+93500,Petr Petrov,Saint Petersburg, Nevskiy Ave.
+63297,Sergey Sidorov,Kazan, Tverskaya St.
+75078,Anna Smirnova,Novosibirsk, Karl Marx St.
+54603,Olga Pavlova,Yekaterinburg, Gagarina Ave.
+78160,Dmitry Karpov,Samara, Kuybyshev St.
+10070,Elena Vasilyeva,Rostov, Donetskaya St.
+47960,Nikolay Frolov,Krasnodar, Krasnaya St.
+54623,Irina Melnik,Vladivostok, Admiral Ave.
+11108,Vladimir Kiselev,Nizhny Novgorod, Minina St.
+16743,Ivan Ivanov,Moscow, Lenin St.
+51563,Petr Petrov,Saint Petersburg, Nevskiy Ave.
+65389,Sergey Sidorov,Kazan, Tverskaya St.
+86384,Anna Smirnova,Novosibirsk, Karl Marx St.
+21877,Olga Pavlova,Yekaterinburg, Gagarina Ave.
+68982,Dmitry Karpov,Samara, Kuybyshev St.
+98168,Elena Vasilyeva,Rostov, Donetskaya St.
+26492,Nikolay Frolov,Krasnodar, Krasnaya St.
+50066,Irina Melnik,Vladivostok, Admiral Ave.
+96661,Vladimir Kiselev,Nizhny Novgorod, Minina St.
+54689,Ivan Ivanov,Moscow, Lenin St.
+53156,Petr Petrov,Saint Petersburg, Nevskiy Ave.
+42406,Sergey Sidorov,Kazan, Tverskaya St.
+35752,Anna Smirnova,Novosibirsk, Karl Marx St.
+25515,Olga Pavlova,Yekaterinburg, Gagarina Ave.
+52141,Dmitry Karpov,Samara, Kuybyshev St.
+92590,Elena Vasilyeva,Rostov, Donetskaya St.
+97210,Nikolay Frolov,Krasnodar, Krasnaya St.
+19399,Irina Melnik,Vladivostok, Admiral Ave.
+31693,Vladimir Kiselev,Nizhny Novgorod, Minina St.
+78801,Ivan Ivanov,Moscow, Lenin St.
+71121,Petr Petrov,Saint Petersburg, Nevskiy Ave.
+89051,Sergey Sidorov,Kazan, Tverskaya St.
+69605,Anna Smirnova,Novosibirsk, Karl Marx St.
+11240,Olga Pavlova,Yekaterinburg, Gagarina Ave.
+49656,Dmitry Karpov,Samara, Kuybyshev St.
+56305,Elena Vasilyeva,Rostov, Donetskaya St.
+24568,Nikolay Frolov,Krasnodar, Krasnaya St.
+64506,Irina Melnik,Vladivostok, Admiral Ave.
+11773,Vladimir Kiselev,Nizhny Novgorod, Minina St.
